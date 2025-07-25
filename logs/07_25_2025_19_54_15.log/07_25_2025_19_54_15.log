@@ -1,0 +1,6 @@
+[ 2025-07-25 19:54:15,559 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-07-25 19:54:15,563 ] 97 werkzeug - INFO -  * Debugger PIN: 518-254-446
+[ 2025-07-25 19:54:20,897 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Jul/2025 19:54:20] "GET /predictdata HTTP/1.1" 200 -
+[ 2025-07-25 19:54:41,611 ] 97 werkzeug - INFO -  * Detected change in 'D:\\project\\src\\utils.py', reloading
+[ 2025-07-25 19:54:41,612 ] 97 werkzeug - INFO -  * Detected change in 'd:\\project\\src\\utils.py', reloading
+[ 2025-07-25 19:54:41,616 ] 97 werkzeug - INFO - 127.0.0.1 - - [25/Jul/2025 19:54:41] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
